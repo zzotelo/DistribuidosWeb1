@@ -36,6 +36,11 @@ else
           <br>
           <li><label for="">Numero 2: </label></li>
           <input type="text" name="n2">
+          
+          <form action="http://ec2-18-224-135-62.us-east-2.compute.amazonaws.com/">
+          <input type="submit" value="RESULTADO" />
+          </form>
+          
           <br><input type="submit" value="Sumar">
           
             
