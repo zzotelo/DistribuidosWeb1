@@ -32,10 +32,10 @@ else
         <h2>Sumar 2 numeros</h2>
         <ul>
           <li><label for="">Numero 1: </label></li>
-          <li><input type="text" name="n1"></li>
+          <br><input type="text" name="n1">
           <li><label for="">Numero 2: </label></li>
-          <li><input type="text" name="n2"></li>
-          <li><input type="submit" value="Sumar"></li>
+          <br><input type="text" name="n2">
+          <br><input type="submit" value="Sumar">
           
             
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
