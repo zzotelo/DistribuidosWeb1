@@ -32,9 +32,10 @@ else
         <h2>Sumar 2 numeros</h2>
         <ul>
           <li><label for="">Numero 1: </label></li>
-          <br><input type="text" name="n1">
+          <input type="text" name="n1">
+          <br>
           <li><label for="">Numero 2: </label></li>
-          <br><input type="text" name="n2">
+          <input type="text" name="n2">
           <br><input type="submit" value="Sumar">
           
             
