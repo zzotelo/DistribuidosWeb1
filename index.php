@@ -24,8 +24,8 @@ else
 <body>
     <section class="congratulations">
         <h1>Sistemas Distribuidos</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
+        <h2>Tercer Parcial</h2>
+        <p>En esta pagina se muestra el despliegue de dos instancias en el servicio de AMAZON WEB SERVICE</p>
     </section>
 
     <section class="instructions">
