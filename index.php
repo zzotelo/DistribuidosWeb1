@@ -40,12 +40,7 @@ else
           <form action="http://ec2-18-224-135-62.us-east-2.compute.amazonaws.com/">
           <input type="submit" value="RESULTADO" />
           </form>
-          
-          <br><input type="submit" value="Sumar">
-          
-            
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
-        </ul>
+      </ul>
 
     </section>
 
